@@ -19,7 +19,7 @@ I am Smanika, Currently pursuing my B.E(CSE) from Chitkara University :school: .
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smanika&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical">
 </div>
 
-### Find me around the web
+📫Find me around the web 
 - Visit my FrontEnd Project- [`Website`](https://smanika.github.io/MUSIC-PAYER-CODING-NINJA-PROJECT/)
 - Connect with me on [`LinkedIn`](https://www.linkedin.com/in/smanika-6806441a6/)
 - Follow me on  [`Instagram`](https://www.instagram.com/_.smanika._/)
