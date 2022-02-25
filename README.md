@@ -20,6 +20,6 @@ I am Smanika, Currently pursuing my B.E(CSE) from Chitkara University :school: .
 </div>
 
 ### Find me around the web
-<p>Visit my FrontEnd Project- [`Website`](https://smanika.github.io/MUSIC-PAYER-CODING-NINJA-PROJECT/)</p>
-<p>Connect with me on [`LinkedIn`](https://www.linkedin.com/in/smanika-6806441a6/)</p>
-<p>Follow me on  [`Instagram`](https://www.instagram.com/_.smanika._/)</p>
+- Visit my FrontEnd Project- [`Website`](https://smanika.github.io/MUSIC-PAYER-CODING-NINJA-PROJECT/)
+- Connect with me on [`LinkedIn`](https://www.linkedin.com/in/smanika-6806441a6/)
+- Follow me on  [`Instagram`](https://www.instagram.com/_.smanika._/)
