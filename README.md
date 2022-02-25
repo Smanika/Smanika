@@ -15,6 +15,6 @@ I am Smanika, Currently pursuing my B.E(CSE) from Chitkara University :school: .
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 </div>
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smanika&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /> &nbsb; &nbsb; &nbsb; &nbsb; &nbsb; &nbsb; &nbsb; 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smanika&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smanika&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical">
 </div>
