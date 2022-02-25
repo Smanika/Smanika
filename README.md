@@ -5,6 +5,7 @@
 
 I am Smanika, Currently pursuing my B.E(CSE) from Chitkara University :school: .
 ### My key skills include JAVA,C/C++,HTML,CSS,JAVASCRIPT,MONDO DB,MERN STACK and DATA STRUCTURES.🚀
+<div>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -12,8 +13,7 @@ I am Smanika, Currently pursuing my B.E(CSE) from Chitkara University :school: .
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+</div>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-
-
-<img height="180em" src="![Smanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smanika&hide=contribs,prs)"/>
