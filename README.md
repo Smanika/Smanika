@@ -16,5 +16,5 @@ I am Smanika, Currently pursuing my B.E(CSE) from Chitkara University :school: .
 </div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smanika&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Smanika/github-readme-stats)">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smanika)](https://github.com/Smanika/github-readme-stats)">
 
