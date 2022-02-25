@@ -16,4 +16,4 @@ I am Smanika, Currently pursuing my B.E(CSE) from Chitkara University :school: .
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smanika&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="![Smanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smanika&hide=contribs,prs)"/>
