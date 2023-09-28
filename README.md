@@ -3,8 +3,8 @@
 <!--
 **Smanika/Smanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
-I am Smanika, Currently pursuing my B.E(CSE) from Chitkara University :school: .
-### My key skills include JAVA,C/C++,HTML,CSS,JAVASCRIPT,MONGO DB,MERN STACK and DATA STRUCTURES.🚀
+I am Smanika, Currently working as Software Developer at Jocata Financials Advisory and Techology :company: .
+### My key skills include JAVA, DAATA STRUCTURES, SPRINGBOOT , HIBERNATE , HQL , SQL.🚀
 <div>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
